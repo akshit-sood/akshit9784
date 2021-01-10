@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **akshit9784/akshit9784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi there, I am <a href="https://www.instagram.com/akshitsood_978/" target="_blank">Akshit</a> 🙋🏽‍♂️</h1> 
+<h1>Hi there 👋, I am <a href="https://www.instagram.com/akshitsood_978/" target="_blank">Akshit</a> 🙋🏽‍♂️</h1> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=akshit9784) 
 
